@@ -1,0 +1,604 @@
+
+IMAGENES
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CLUB DEPORTIVO MADELENA</title>	  
+	<meta charset="utf-8" />	
+	<link href="estilo.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+</head>
+<body>
+
+	<div id="contendor">
+		
+		<div class="textoCentrado">
+			<img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10322643_10205029597600739_1853944762945292710_n.jpg?oh=7d6bad27439bced0160a53265b7474e8&oe=54DDA11A&__gda__=1427230988_007c908a295d042f481260aa2278173b" width="1100px" height="250" />		
+		</div>
+
+		<div id="cabecera "align="center">
+			<h1 id="titulo"><font size="40">CLUB DEPORTIVO MADELENA<br><font size="25">
+				¡Inscribete ya!</font></br></font></h1>
+			<div id="opciones">
+				
+			</div>	
+		</div>
+
+		<div id="menu" class="textoCentrado"	>
+			<ul class="nav">
+				<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/index.html">INICIO</a></li>
+				<li><a href="#">NUESTRO CLUB</a>
+					<ul>
+
+						<li><a href="">reconocimiento deportivo</a></li>
+						<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/historia.html">Historia</a></li>
+						<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/mision.html">Mision y vision</a></li>
+					</ul>
+				</li>
+				<li><a href="">COSTOS</a>
+					<ul>
+						<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/costos.html">Costos</a></li>
+						<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/horarios.html">Horarios</a></li>
+					</ul>
+				</li>
+				<li><a href="#">MULTIMEDIA</a>
+					<ul>
+						<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/imagenes.html">Imagenes</a></li>
+						<li><a href="">Videos</a></li>
+					</ul>
+				</li>
+				<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/contacto.html">CONTACTENOS</a>
+			</ul>	
+		</div>
+		<br>
+
+		<div id="contenido">
+			<div class="producto"align="center">
+				<div>
+				
+				<h3 id="titulo"><font size="40"><font color="black">GALERIA<br><font size="25">
+				</font></font></h3></font>
+				<p align='justify'>
+					
+				<p align="justify" style="padding:20px; "><font color="black"  marginwidth="150"><font size="4px">
+
+
+				<div class="textoCentrado" >Deportistas Club Deportivo Madelena a continuación se muestran algunas imagenes  de nuestro club. <br></br>
+								
+
+
+				
+
+					<IMG SRC='https://scontent-a-mia.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/1904206_10201760171844958_1792438876588975197_n.jpg?oh=fc1d8911fde4ff55ded58921f6402361&oe=54D6F2CA' width='220px' height='200' /> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+				
+					<img src='https://scontent-b-mia.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1922003_10201389631341677_7156607544106437953_n.jpg?oh=996357e87239dcaf6feac95b5c6d043e&oe=550EBF11' width='220px' height='200'>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+
+					<IMG SRC='https://scontent-b-mia.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10616657_10201393435996791_4561148474810850838_n.jpg?oh=8840deeeb379765f445c4260dc50f74d&oe=5517D38E' width='220px' height='200'><br></br>
+					</center>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;								
+					<center>
+
+					<img src='https://scontent-a-mia.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10471086_10201393434196746_2578194063756586095_n.jpg?oh=18ed7700c38ebd21b1a394d691dccfe4&oe=55114F0B' width='220px' height='200';>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+				
+					<img src='https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10600456_10201393433396726_7817509426178402598_n.jpg?oh=4d4b7458efba1c054f1e521fa5f631f5&oe=54DE85CA&__gda__=1424237020_4786395ea5063e863e3a558d1db2782d' width='220px' height='200';>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+
+					<img src='https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/p417x417/10408708_10201325375135312_6546340746658106859_n.jpg?oh=f3bb228c5aa711722abe959141f7a22a&oe=54D760C7&__gda__=1423735090_908e20a0370a4dcc98e96012d77be350' width='220px' height='200';>
+					</center>
+					<p>para ver nuestro facebook  de <a href="https://www.facebook.com/torneo.madelena?fref=ts">click aqui</a> </p>
+					<p>para ver noticias de   <a href="https://www.google.com.co/">click aqui</a> </p>
+
+								</br>
+								</br>
+								<p>
+								<font size="38">NUESTRO GRUPO DE ENTRENADORES<br><font size="25"><font color="black">
+								</font></font></p></font>
+
+				
+
+						<p>JEAN ANDREY RINCON  &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JEIVAN CASTUS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BRENDA CANO</p>
+
+						<img src="https://scontent-b-lga.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10372743_10201207685553146_2666259050869162370_n.jpg?oh=d7b6b0bc3ae31314d024da0fee9f7a33&oe=54D24B3F"width='210px' height='210px'>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+					
+
+
+						<img src="https://scontent-b-lga.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10372743_10201207685553146_2666259050869162370_n.jpg?oh=d7b6b0bc3ae31314d024da0fee9f7a33&oe=54D24B3F"width='210px' height='210px'>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+
+					
+						<img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10313453_10200973950229909_2059717073257281139_n.jpg?oh=afd920f32ef8b9bcbd7765e0adb7e69d&oe=54DAD605&__gda__=1427670291_6eff9b8169379d69b57ea21d42e39d90"width='220px' height='220px'>			
+
+
+						<font size="438"><p>NUESTROS ALUMNOS<br><font size="25"><font color="black">
+				        </font></font></p></font>
+
+
+
+									<P>GRUPO FEMENINO</P>
+									<img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/1509843_10203670898482628_770264142_n.jpg?oh=a294b7bfbd84cde177cc784244063658&oe=550AB396&__gda__=1426602699_102557ea73f123d17a01f921ab31b2e4"width='220px' height='200';>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+									<img src="https://scontent-b-lga.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/149802_1314787048689_5578596_n.jpg?oh=498fe7556f6d1558dcc8d58e98d8c575&oe=550C93E7"width='220px' height='200';>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+
+									<img src="https://scontent-b-lga.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/73988_1314786848684_8256198_n.jpg?oh=eab3d8bc37cac8bc2aa51d0da993d72a&oe=551229FC"width='220px' height='200';>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+									<br></br>
+
+									<img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/72245_1314797408948_3340315_n.jpg?oh=cee89244db092d28e47c02ba472d8550&oe=551D59CD&__gda__=1426537967_195822c5b82645a431cc2f98579fe0c3"width='220px' height='200';>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+									<img src="https://scontent-a-lga.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/p417x417/10514570_10201153645202171_1744417007498078073_n.jpg?oh=e0cf933b0ef62c2b9cdf078c19d34a06&oe=551C885F"width='220px' height='200';>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+									<img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10406380_10201153654802411_6560415543876992727_n.jpg?oh=f690f54b614d9de3d5cae2c684ac1ccf&oe=54DCAF39&__gda__=1423185199_4d6a8dfcd33e03c34162cff8fffed11f"width='220px' height='200';>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+
+
+									<p>GRUPO MASCULINO</p>
+									<img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10262131_10201788886922817_4843708958223902100_n.jpg?oh=d18d545b27da9ee803310762723609db&oe=54DC4B17&__gda__=1423500610_7a1122da34e61003dc3bab2985953a38"width='220px' height='200';>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+									<img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10690279_10201788890002894_2291927248496410605_n.jpg?oh=baa00773e192f7d3f4edf981b71b45f8&oe=54D9F37B&__gda__=1423827758_5c7123e37a0f88f27c5881616c34e751"width='220px' height='200';>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+									<img src="https://scontent-a-lga.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10376169_10201605644101861_3895018480104505652_n.jpg?oh=9cc6028e611cdc2585c1f8386a0f487c&oe=550AD9DE"width='220px' height='200';>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+
+
+									</p>
+
+					
+		
+				
+				<div id="contenedorPiePagina">
+								<div id="piePagina">
+									<p><font size="3" font color="black">Jean Andrey Rincón Alfonso.
+									Presidente club deportivo Madelena.<br>
+									____________________________________________________________________________________</br>
+									<br>
+									Club Deportivo Madelena –Reconocimiento Deportivo  No  431- 150910. – IDRD</br>
+									<br>
+									 // 3132310517 – 3010956  madmadclub@hotmail.com </font>
+									</br>
+									</p>
+								</div>
+							</div>
+						</div>
+
+				</div>
+			</div>
+
+
+	
+
+	<script>	 
+			var elementos = null;
+
+		    function getTimeAJAX() {	 
+		        $.ajax({
+		            url: 'http://10.255.14.22:8081/Noticias/ControladorNoticia?opcion=2&idCategoria=1', //indicamos la ruta donde se genera la hora
+	                dataType: 'json',//indicamos que es de tipo texto plano
+	                type:'GET',
+	                success:function(data){
+	            		elementos = data;
+		    			
+		    			for(var i=0; i< data.length; i++){
+
+		    				alert(data[i].noticia);
+		    			}
+	                }    
+		        });
+		    }
+
+		    getTimeAJAX();
+	</script>
+</body>
+</html>        
+
+INDEX
+
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<center><title> >CLUB DEPORTIVO MADELENA </center></title>	  
+
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+ 
+ 
+<script type="text/javascript">
+	 
+		var elementos = null;
+
+	    function getTimeAJAX() {	 
+	        $.ajax({
+	            url: 'http://10.255.14.43:8080/Noticias/ControladorNoticia?opcion=3', //indicamos la ruta donde se genera la hora
+                dataType: 'json',//indicamos que es de tipo texto plano
+                type:'GET',
+                success:function(data){
+            		elementos = data;
+	    			console.log(elementos);
+                }
+                
+	        });
+	    }
+	    getTimeAJAX();
+	</script>
+ 
+
+	<meta charset="utf8" />	
+	<link href="estilo.css" rel="stylesheet" type="text">
+</head>
+<body>
+
+	<div class="textoCentrado">
+		<img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10322643_10205029597600739_1853944762945292710_n.jpg?oh=7d6bad27439bced0160a53265b7474e8&oe=54DDA11A&__gda__=1427230988_007c908a295d042f481260aa2278173b" width="1100px" height="250" />		
+	</div>
+	
+
+	<div id="contendor">
+		<div id="cabecera">
+			<h1 id="titulo"><font size="40">CLUB DEPORTIVO MADELENA<br><font size="25">
+				¡Inscribete ya!</font></br></font></h1>
+			<div id="opciones">
+				
+			</div>	
+		</div>
+
+		<div id="menu" class="textoCentrado">
+			<ul class="nav">
+				<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/index.html">INICIO</a></li>
+				<li><a href="#">NUESTRO CLUB</a>
+					<ul>
+
+						<li><a href="">reconocimiento deportivo</a></li>
+						<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/historia.html">Historia</a></li>
+						<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/mision.html">Mision y vision</a></li>
+					</ul>
+				</li>
+				<li><a href="">COSTOS</a>
+					<ul>
+						<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/costos.html">Costos</a></li>
+						<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/horarios.html">Horarios</a></li>
+					</ul>
+				</li>
+				<li><a href="#">MULTIMEDIA</a>
+					<ul>
+						<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/imagenes.html">Imagenes</a></li>
+						<li><a href="">Videos</a></li>
+					</ul>
+				</li>
+				<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/contacto.html">CONTACTENOS</a>
+			</ul>	
+		</div>
+		<br>
+
+		<div id="contenido">
+			<div class="producto">
+				<div>
+
+					<embed src="06032013171.mp4" width="300" height="300" >&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						<embed src="MOV_0018.mp4"width="300" height="300">
+
+					
+						<p align="justify" style="padding:20px; ">					<font color="black"  marginwidth="150"><font size="5px">
+							El “club deportivo Madelena”, es un organismo deportivo de derecho privado, sin ánimo de lucro, constituida por afiliados mayoritariamente deportistas, con el fin de fomentar y patrocinar la práctica del deporte del baloncesto, la recreación y el aprovechamiento del tiempo libre e impulsar programas de interés público y social, que se regirá por la ley 181 de 1995, sus normas reglamentarias, y por los estatutos del club mismo; el club deportivo madalena funciona en la cancha #2 del barrio madalena como sede deportiva y con sede administrativa en la av. Jiménez 5 - 43 oficina 340,  desde el año 2008 y se oficializo su creación mediante la  , resolución  de reconocimiento deportivo # 431 del 15 de septiembre del 2010 y en cumplimiento con sus estatutos se encuentra afiliado a la liga de baloncesto de Bogotá.
+						</p>
+
+						<IMG SRC='https://scontent-a-mia.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/1904206_10201760171844958_1792438876588975197_n.jpg?oh=fc1d8911fde4ff55ded58921f6402361&oe=54D6F2CA' width='300px' height='210'>&nbsp; &nbsp;&nbsp;&nbsp; 
+							
+							<img src='https://scontent-b-mia.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1922003_10201389631341677_7156607544106437953_n.jpg?oh=996357e87239dcaf6feac95b5c6d043e&oe=550EBF11' width='300px' height='210'>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+
+							<IMG SRC='https://scontent-b-mia.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10616657_10201393435996791_4561148474810850838_n.jpg?oh=8840deeeb379765f445c4260dc50f74d&oe=5517D38E' width='300px' height='210'><br></br>
+								<br>
+
+							<img src='https://scontent-b-mia.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1922003_10201389631341677_7156607544106437953_n.jpg?oh=996357e87239dcaf6feac95b5c6d043e&oe=550EBF11' width='300px' height='210';>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+								<img src='https://scontent-a-mia.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10471086_10201393434196746_2578194063756586095_n.jpg?oh=18ed7700c38ebd21b1a394d691dccfe4&oe=55114F0B' width='300px' height='210';>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+							
+								<img src='https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10600456_10201393433396726_7817509426178402598_n.jpg?oh=4d4b7458efba1c054f1e521fa5f631f5&oe=54DE85CA&__gda__=1424237020_4786395ea5063e863e3a558d1db2782d' width='300px' height='210'>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+
+						</br>
+
+					
+		
+		
+		<div id="contenedorPiePagina">
+			<div id="piePagina">
+				<p><font size="3"><font color="black">Jean Andrey Rincón Alfonso.
+Presidente club deportivo Madelena.<br>
+____________________________________________________________________________________</br>
+<br>
+Club Deportivo Madelena –Reconocimiento Deportivo  No  431- 150910. – IDRD</br>
+<br>
+ // 3132310517 – 3010956  madmadclub@hotmail.com </font>
+</br>
+</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+
+
+ESTILO
+body{
+background-image: url;
+padding:20px 30px 30px 30px;
+font-family: Tahoma, Arial, Verdana;
+font-size: 11px;
+background-color: #87CEEB;
+
+}
+
+
+.transp-block {
+background: #000 url(watermark.jpg) no-repeat;
+width: 575px;
+height: 335px;
+}
+img.transparent {
+filter:alpha(opacity=75);
+opacity:.75;
+}
+div#contendor{
+	background: #4169E1;
+	border: solid 1px #DDD;
+	background-color: #AFEEEE;
+	width: 1100px;
+	margin:0 auto;
+}
+
+div#cabecera{
+	height:150px;
+	border-bottom:solid 1px #DDD;
+
+}
+div#opciones{
+
+	width: 1100px;
+	float:right;
+	margin-right: 15px;
+	text-align: right;
+
+
+}
+
+h1#titulo{
+	margin-left: 20px;
+
+}
+div#menu{
+	height: 60px;
+	background-color: #333;
+	color:#000080;
+	text-align: center;
+	margin: 0 auto;
+}
+.nav{
+
+	padding: 0px;
+	margin: 0px;
+	width: 850px;
+	
+	
+	background-color: #333;
+	color:#FFF;
+}
+
+.nav li a {
+	
+	
+	text-decoration: none;
+	padding: 10px 15px;
+	display:block;
+	height: 10px;
+	background-color: #333;
+	color:#FFF;
+	text-align: center;
+	margin: 0 auto;
+
+
+}
+.nav>li{
+	float:left;
+}
+.nav li a:hover{
+	background-color: #434343;
+}
+.nav li ul{
+
+	display: none;
+	position: absolute;;
+	min-width:140px; 
+}
+
+div#menu ul{
+
+	list-style: none;
+	padding-left: 0px;
+	margin:0 auto;
+}
+.nav li:hover> ul{
+	display: block;
+}
+
+div#menu ul li{
+	list-style: none;
+	display: inline-block;
+	min-width: 130px;
+	/*margin-right: 5px;
+	padding-left: 5px;*/
+	border-right: solid 1px #FFF;
+	text-align: center;
+	height: 35px;
+	padding-top:10px;
+}
+
+div#menu ul li: first-child{
+	border-left:solid 1px#FFF;
+	margin-left: 100px;
+}
+div#menu ul li:hover{
+	background-color: #F90;
+	text-decoration: underline;
+	font-weight: bold;
+}
+div#menu ul li a{
+	color:#FFF;
+	text-decoration:  none;
+	font-size: 16px;
+
+}
+div#contenido{
+	
+	background:#5F9EA0;
+	width: 1049px;
+	border-right: solid 1px #333;
+	padding: 20px 15px 30px 15px;
+	min-height: 400px;
+	display :inline-block;
+
+}
+
+
+
+	
+
+
+div#detalles{
+	width: 150px;
+© 2014 Microsoft Términos Privacidad y cookies Desarrolladores Español
+© 2014 Microsoft Términos Privacidad y cookies Desarrolladores Español
+        
+
+
+CONTACTO
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<center><title> >CLUB DEPORTIVO MADELENA </center></title>	  
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	
+
+	<meta charset="utf8" />	
+	<link href="estilo.css" rel="stylesheet" type="text">
+</head>
+<body>
+
+	<script type="text/javascript">
+	 
+		var elementos = null;
+
+	    function getTimeAJAX() {	 
+	        $.ajax({
+	            url: 'http://10.255.14.43:8080/Noticias/ControladorNoticia?opcion=3', //indicamos la ruta donde se genera la hora
+                dataType: 'json',//indicamos que es de tipo texto plano
+                type:'GET',
+                success:function(data){
+            		elementos = data;
+	    			console.log(elementos);
+                }
+                
+	        });
+	    }
+	    getTimeAJAX();
+	</script>
+
+	<div class="textoCentrado">
+		<img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10322643_10205029597600739_1853944762945292710_n.jpg?oh=7d6bad27439bced0160a53265b7474e8&oe=54DDA11A&__gda__=1427230988_007c908a295d042f481260aa2278173b" width="1100px" height="250" />		
+	</div>
+	
+
+	<div id="contendor">
+		<div id="cabecera">
+			<h1 id="titulo"><font size="40">CLUB DEPORTIVO MADELENA<br><font size="25">
+				¡Inscribete ya!</font></br></font></h1>
+			<div id="opciones">
+				
+			</div>	
+		</div>
+
+		<div id="menu" class="textoCentrado">
+			<ul class="nav">
+				<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/index.html">INICIO</a></li>
+				<li><a href="#">NUESTRO CLUB</a>
+					<ul>
+
+						<li><a href="">reconocimiento deportivo</a></li>
+						<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/historia.html">Historia</a></li>
+						<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/mision.html">Mision y vision</a></li>
+					</ul>
+				</li>
+				<li><a href="">COSTOS</a>
+					<ul>
+						<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/costos.html">Costos</a></li>
+						<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/horarios.html">Horarios</a></li>
+					</ul>
+				</li>
+				<li><a href="#">MULTIMEDIA</a>
+					<ul>
+						<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/imagenes.html">Imagenes</a></li>
+						<li><a href="">Videos</a></li>
+					</ul>
+				</li>
+				<li><a href="file:///Users/luisabarrera/Desktop/carpeta%20sin%20ti%CC%81tulo/contacto.html">CONTACTENOS</a>
+			</ul>	
+		</div>
+		<br>
+
+		<div id="contenido">
+			<div class="producto">
+				<div>
+
+					
+						
+				<h3 id="titulo"><font size="40"><font color="black">CONTACTENOS<br><font size="25">
+				</font></font></h3></font>
+				<p align='justify'>
+
+						
+					
+				<p align="justify" style="padding:20px; "><font color="black"  marginwidth="150"><font size="4px">
+
+
+	<div class="textoCentrado">
+			
+			    Deportistas Club Deportivo Madelena a continuación presentamos las opciones para que se contacte con nosostros.Gracias. <br></br>
+								.<br>
+
+
+								<center>
+
+
+
+								</center>
+								<p>para ver nuestro facebook  de <a href="https://www.facebook.com/torneo.madelena?fref=ts">click aqui</a> </p>
+								<p>para ver noticias de   <a href="https://www.google.com.co/">click aqui</a> </p>
+
+
+					    	<form action="datos.php" method="get">
+							Nombre: <input type="text" name="nombre"><br>
+
+							Apellido: <input type="text" name="apellido"><br>
+							comenta: <input type="text" name="comentario"><br>
+							</form>
+													
+				
+				<div id="contenedorPiePagina">
+				<div id="piePagina">
+				<p><font size="3"><font color="black">Jean Andrey Rincón Alfonso.
+				Presidente club deportivo Madelena.<br>
+				____________________________________________________________________________________</br>
+				<br>
+				Club Deportivo Madelena –Reconocimiento Deportivo  No  431- 150910. – IDRD</br>
+				<br>
+				 // 3132310517 – 3010956  madmadclub@hotmail.com </font>
+				</br>
+				</p>
+						</div>
+						</div>
+				</div>
+				</body>
+				</html>
+
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+data.length
+
